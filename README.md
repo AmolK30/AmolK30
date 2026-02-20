@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Exploring AI | Transforming Data into Decisions"
+### "Exploring AI | Transforming Data into Decisions"
 
 
 ## 🌐 Socials:
